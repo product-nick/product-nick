@@ -1,7 +1,8 @@
 ### Hi there 🚀
 
-- 🔭 I’m currently working as a Product Delivery Manager @ <a href="https://motionops.com" alt="Simple Software for Service Companies">MotionOps</a>
-- 📫 Find me on <a href="https://www.linkedin.com/in/nstanisavljevic/" alt="https://www.linkedin.com/in/nstanisavljevic">LinkedIn</a>
+- 🐝 I’m currently working as a Product Delivery Manager @ <a href="https://motionops.com" alt="Simple Software for Service Companies">MotionOps</a>
+- 👍 I usually only create issues for devs
+- 💬 Here's a random dev joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
