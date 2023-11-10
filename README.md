@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 🚀
+
+- 🔭 I’m currently working as a Product Delivery Manager @ <a href="https://motionops.com" alt="Simple Software for Service Companies">MotionOps</a>
+- 📫 Find me on <a href="https://www.linkedin.com/in/nstanisavljevic/" alt="https://www.linkedin.com/in/nstanisavljevic">LinkedIn</a>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **product-nick/product-nick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
